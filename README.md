@@ -1,6 +1,5 @@
 ﻿# FunJni  
  
- # XposedJniTrace
 
 ## 前言：
 
